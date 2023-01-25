@@ -1,4 +1,4 @@
-# MyMarvelApp_FC
+# iOSTrioEncyclopedia
 An encyclopedia app about ios development.
 Written by:
 - Gabriel Dall'Agnol https://www.linkedin.com/in/gabriel-dallagnol/
